@@ -1,1 +1,4 @@
 DATA_DIRECTORY: data
+output_schema:
+  CID X LOC_NUM X VENDOR: !!python/name:builtins.str ''
+  target: !!python/name:builtins.int ''
