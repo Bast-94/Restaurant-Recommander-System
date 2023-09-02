@@ -1,8 +1,9 @@
 # Restaurant-Recommander-System
-Implémentation d'un système de recommandation de restaurants à partir de jeux de données d'une application de livraison de plats cuisinés.
+Implémentation d'un système de recommandation de restaurants à partir de jeux de données d'une application de livraison de plats cuisinés. Ce projet s'inscris dans le cours de Systèmes de recommandation encadré par [Oscar de Felice](https://github.com/oscar-defelice)
 
 Les données sont disponibles [ici](https://mega.nz/file/ZRhgESqR#iuO6pBaZbeEttJ_BGmwbSh2XTg4tnf_zXrzSXcq5W6M)
-# Final Project
+
+# Assignement
 
 
 The objective of this project is to build a recommendation engine to predict what restaurants customers are most likely to order from given the customer location, restaurant information, and the customer order history.
